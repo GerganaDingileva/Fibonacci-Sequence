@@ -1,2 +1,2 @@
 # Fibonacci-Sequence
-As the numbers get larger, the quotient between each successive pair of Fibonacci numbers approximates 1.618, or its inverse 0.618. This proportion is known by the name the golden ratio.
+In mathematics, the Fibonacci numbers, commonly denoted Fn , form a sequence, the Fibonacci sequence, in which each number is the sum of the two preceding ones. The sequence commonly starts from 0 and 1.
